@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gia sư AI"
+  short_description: "Học từ tài liệu qua giải thích, luyện tập và ôn nhớ"
+  default_prompt: "Dùng $ai-tutor giúp tôi học tài liệu đính kèm, kiểm tra mức hiểu và hướng dẫn từng bước phù hợp mục tiêu của tôi."

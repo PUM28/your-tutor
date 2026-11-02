@@ -1,0 +1,4 @@
+yt-dlp>=2026.10.26,<2027
+pydantic>=2.8,<3
+imageio-ffmpeg>=0.6,<1
+

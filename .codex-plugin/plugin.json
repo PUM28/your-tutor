@@ -1,0 +1,15 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Education & Research",
+    "defaultPrompt": "Giúp tôi học tài liệu đính kèm từ nền tảng, từng bước và kiểm tra mức hiểu.",
+    "displayName": "Gia sư AI",
+    "longDescription": "Gửi tài liệu để được hướng dẫn từng bước: xác định mục tiêu, giải thích, luyện nhớ, làm bài, sửa hiểu nhầm và ôn tập. Theo dõi trong cuộc trò chuyện; có thể tạo hồ sơ tiếp nối khi được yêu cầu.",
+    "shortDescription": "Học hiệu quả từ tài liệu"
+  },
+  "name": "ai-tutor",
+  "version": "1.1.0",
+  "description": "Gia sư AI tiếng Việt giúp học từ tài liệu bằng giải thích thích ứng, luyện tập có phản hồi và ôn tập theo tiến độ.",
+  "keywords": [],
+  "skills": "./skills"
+}
